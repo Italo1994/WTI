@@ -1,25 +1,25 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import styled from 'styled-components';
+import worldMap from './images/world_map.jpg';
+import { Quotes } from './components/quotes/Quotes';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+export default function App() {
+  return(
+    <Content>
+      <Quotes quote={'ok'} speaker={'speaker'} />
+      {/* <WorldBackground src={worldMap} alt="plano de fundo do mapa mundi" /> */}
+    </Content>
   );
 }
 
-export default App;
+const Content = styled.div`
+  height: 100vh;
+  padding: 0 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+`;
+
+const WorldBackground = styled.img`
+  max-width: 50vw;
+`;
