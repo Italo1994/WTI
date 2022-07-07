@@ -6,13 +6,14 @@ import { Quotes } from './components/quotes/Quotes';
 export default function App() {
   return(
     <Content>
-      <Quotes quote={'ok'} speaker={'speaker'} />
+      <Quotes country={'country'} quote={'quote'} />
       {/* <WorldBackground src={worldMap} alt="plano de fundo do mapa mundi" /> */}
     </Content>
   );
 }
 
 const Content = styled.div`
+  background-color: rgba(0, 0, 0, .7);
   height: 100vh;
   padding: 0 50px;
   display: flex;
