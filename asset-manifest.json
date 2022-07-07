@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/WTI/static/js/main.2f7c1f05.js",
+    "main.js": "/WTI/static/js/main.3b087af4.js",
     "static/media/world_map.jpg": "/WTI/static/media/world_map.2dd6d6384e0e5a5e0149.jpg",
     "index.html": "/WTI/index.html",
-    "main.2f7c1f05.js.map": "/WTI/static/js/main.2f7c1f05.js.map"
+    "main.3b087af4.js.map": "/WTI/static/js/main.3b087af4.js.map"
   },
   "entrypoints": [
-    "static/js/main.2f7c1f05.js"
+    "static/js/main.3b087af4.js"
   ]
 }
