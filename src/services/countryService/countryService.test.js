@@ -1,10 +1,10 @@
 import { rest } from 'msw';
 import { setupServer } from 'msw/node';
 
-import { getCountry } from './countryService';
+import { getCountryService } from './countryService';
 
 const response = {
-    test: 'testing'
+    test: 'test'
 };
 
 const server = setupServer(
@@ -18,7 +18,7 @@ afterEach( () => server.resetHandlers());
 afterAll( () => server.close());
 
 test('transform json response into object', async () => {
-    const country = await getCountry();
+    const country = await getCountryService();
 
-    expect(country).toStrictEqual(response);
+    expect(country).toStrictEqual(response.test);
 });

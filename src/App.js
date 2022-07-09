@@ -1,13 +1,29 @@
-import React from 'react';
+import { useEffect, useState } from 'react';
 import styled from 'styled-components';
-import worldMap from './images/world_map.jpg';
+
 import { Quotes } from './components/quotes/Quotes';
+import { getCountryService } from './services/countryService/countryService';
 
 export default function App() {
+  
+  /*
+  * info recebe o objeto com as informações de nome e detalhes do país
+  */
+  const [info, setInfo] = useState( {country: 'country', quote: 'quote'} );
+
+  useEffect( () => {
+    onUpdate();
+  }, []);
+
+  const onUpdate = async () => {
+    const quote = await getCountryService();
+    
+    setInfo(quote);
+  };
+
   return(
     <Content>
-      <Quotes country={'country'} quote={'quote'} />
-      {/* <WorldBackground src={worldMap} alt="plano de fundo do mapa mundi" /> */}
+      <Quotes {...info} /*country={info.country} quote={info.quote}*/ onUpdate={onUpdate} />
     </Content>
   );
 }

@@ -1,0 +1,62 @@
+ [
+        {
+            "name": "Brasil",
+            "information": "O Brasil, um vasto país sul-americano, estende-se da Bacia Amazônica, no norte, até os vinhedos e as gigantescas Cataratas do Iguaçu, no sul. O Rio de Janeiro, simbolizado pela sua estátua de 38 metros de altura do Cristo Redentor, situada no topo do Corcovado, é famoso pelas movimentadas praias de Copacabana e Ipanema, bem como pelo imenso e animado Carnaval, com desfiles de carros alegóricos, fantasias extravagantes e samba."
+        },
+        {
+            "name": "Estados Unidos",
+            "information": "Os EUA são um país com 50 estados que cobrem uma vasta faixa da América do Norte, com o Alasca ao noroeste e o Havaí no Oceano Pacífico, estendendo a presença do país. As principais cidades da costa atlântica são Nova York, um centro financeiro e cultural global, e a capital, Washington, DC. Chicago, uma metrópole do centro-oeste, é conhecida por sua importante arquitetura, enquanto Los Angeles, na costa oeste, é famosa pelas produções cinematográficas de Hollywood."
+        },
+        {
+            "name": "Colômbia",
+            "information": "A Colômbia é um país no extremo norte da América do Sul. Sua paisagem é marcada por florestas tropicais, pela Cordilheira dos Andes e por várias plantações de café. Na capital Bogotá, que se encontra a uma grande altitude, a Zona Rosa é conhecida por seus restaurantes e lojas. Cartagena, na costa caribenha, conta com uma Cidade Antiga colonial murada, um castelo do século XVI e recifes de corais."
+        },
+        {
+            "name": "Canadá",
+            "information": "O Canadá é um país norte-americano que se estende desde os EUA, no sul, até o Círculo Polar Ártico, no norte. Entre suas grandes cidades estão a gigantesca Toronto; Vancouver, centro cinematográfico da costa oeste; Montreal e Québec City, que falam francês; e a capital, Ottawa. As vastas regiões de natureza selvagem do Canadá compreendem o Parque Nacional de Banff, repleto de lagos nas Montanhas Rochosas. Abriga também as Cataratas do Niágara, um famoso conjunto de enormes cachoeiras."
+        },
+        {
+            "name": "Reino Unido",
+            "information": "O Reino Unido, formado por Inglaterra, Escócia, País de Gales e Irlanda do Norte, é uma nação insular situada no noroeste da Europa. A Inglaterra, local de nascimento de Shakespeare e dos Beatles, abriga a capital, Londres, um centro financeiro e cultural globalmente influente. Também na Inglaterra, ficam o neolítico Stonehenge, as termas romanas de Bath e as centenárias universidades de Oxford e Cambridge."
+        },
+        {
+            "name": "China",
+            "information": "A China é uma nação muito populosa da Ásia Oriental cuja ampla paisagem abrange pradarias, desertos, montanhas, lagos, rios e mais de 14.000 km de litoral. A capital Pequim combina a arquitetura moderna com locais históricos, como o complexo de palácios da Cidade Proibida e a Praça da Paz Celestial. Xangai é um centro financeiro global repleto de arranha-céus. A emblemática Muralha da China corta a região norte do país de leste a oeste."
+        },
+        {
+            "name": "França",
+            "information": "A França, na Europa Ocidental, tem cidades medievais, aldeias alpinas e praias mediterrâneas. Paris, sua capital, é famosa pelas casas de alta costura, museus de arte clássica, como o Louvre, e monumentos como a Torre Eiffel. O país também é conhecido pelos vinhos e pela cozinha sofisticada. Antigos desenhos da caverna de Lascaux, o Teatro Romano de Lyon e o amplo Palácio de Versalhes atestam a sua rica história."
+        },
+        {
+            "name": "Alemanha",
+            "information": "A Alemanha é um país situado na Europa Ocidental com uma paisagem de florestas, rios, cordilheiras e praias do Mar do Norte. A nação tem mais de 2 milênios de história. Berlim, a capital, abriga cenários artísticos e de vida noturna, o Portão de Brandemburgo e muitos locais relacionados à Segunda Guerra Mundial. Munique é conhecida pela Oktoberfest e pelos beer halls, entre eles o Hofbräuhaus, do século XVI. Frankfurt, com seus arranha-céus, abriga o Banco Central Europeu."
+        },
+        {
+            "name": "Austrália",
+            "information": "A Austrália é um país continental cercado pelos oceanos Índico e Pacífico. Suas principais cidades, Sydney, Brisbane, Melbourne, Perth e Adelaide, são costeiras. Sua capital, Camberra, não é litorânea. O país é conhecido pela Sydney Opera House, pela Grande Barreira de Coral, pelo vasto deserto interior chamado Outback e por espécies animais únicas, como cangurus e ornitorrincos."
+        },
+        {
+            "name": "Bélgica",
+            "information": "A Bélgica, um país da Europa Ocidental, é conhecida por suas cidades medievais, sua arquitetura renascentista e por ser a sede da União Europeia e da OTAN. O país tem regiões distintas, que incluem Flandres, ao norte, cuja população tem o holandês como idioma nativo, Valônia, ao sul, que tem como idioma oficial o francês, e uma comunidade falante da língua alemã ao leste. Na bilíngue capital, Bruxelas, destacam-se as ornamentadas construções da Grand-Place e os elegantes edifícios de art nouveau."
+        },
+        {
+            "name": "Itália",
+            "information": "A Itália, país europeu com uma longa costa mediterrânea, deixou uma marca poderosa na culinária e na cultura ocidentais. A capital, Roma, é sede do Vaticano e abriga obras de arte monumentais e ruínas antigas. Outra cidade importante é Florença, com obras-primas do Renascimento, como o \"Davi\", de Michelangelo, e o Domo de Brunelleschi. Destacam-se também Veneza, a cidade dos canais, e Milão, capital da moda italiana."
+        },
+        {
+            "name": "Espanha",
+            "information": "A Espanha, país europeu da península Ibérica, tem 17 regiões autônomas com geografia e cultura diversas. Madri, a capital, abriga o Palácio Real e o Museu do Prado, obras erigidas por mestres europeus. Segóvia tem um castelo medieval (Alcázar) e um aqueduto romano intacto. A capital da Catalunha, Barcelona, apresenta monumentos modernistas de Antoni Gaudí, como a Igreja da Sagrada Família."
+        },
+        {
+            "name": "México",
+            "information": "O México é um país situado entre os Estados Unidos e a América Central, conhecido pelas praias no Pacífico e no Golfo do México e pela paisagem diversificada que inclui montanhas, desertos e selvas. Ruínas antigas, como Teotihuacán e a cidade maia de Chichén Itzá, estão espalhadas pelo país, assim como cidades da era colonial espanhola. Na capital, Cidade do México, lojas elegantes, museus renomados e restaurantes gourmet atendem às necessidades da vida moderna."
+        },
+        {
+            "name": "Argentina",
+            "information": "A Argentina é um país da América do Sul com uma área extensa que abrange montanhas dos Andes, lagos glaciais e pradarias nos Pampas, ocupadas tradicionalmente por seu famoso gado. O país é conhecido também por sua dança e sua música, o tango. A capital cosmopolita, Buenos Aires, tem como centro a Praça de Maio, cercada por edifícios imponentes do século XIX, como a Casa Rosada, o emblemático palácio presidencial."
+        },
+        {
+            "name": "Chile",
+            "information": "O Chile é um país de território comprido e estreito que se estende pelo extremo oeste da América do Sul, com mais de 6.000 km de litoral ao longo do Oceano Pacífico. Santiago, sua capital, fica localizada em um vale cercado pelos Andes e pelas montanhas da Cordilheira da Costa do Pacífico Sul. Nessa cidade, a Plaza de Armas, repleta de palmeiras, abriga a catedral neoclássica e o Museu de História Nacional. O imenso Parque Metropolitano tem piscinas, um jardim botânico e um zoológico."
+        }
+ ]

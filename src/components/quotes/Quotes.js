@@ -3,7 +3,7 @@ import { string, func } from 'prop-types';
 
 import { Button } from '../button';
 
-export const Quotes = ( {country, quote, onUpdate } ) => {
+export const Quotes = ( {country, quote, onUpdate = () => {} } ) => {
     return(
         <Wrapper>
             <Title>{country}</Title>

@@ -1,8 +1,13 @@
 import styled from 'styled-components';
 import { string } from 'prop-types';
+import { Quotes } from '../quotes/Quotes';
 
 export const Button = ( {children }) => {
-    return <ButtonCustom>{children}</ButtonCustom>
+    return (
+        <ButtonCustom>
+            {children}
+        </ButtonCustom>
+    );
 }
 
 Button.propTypes = {
