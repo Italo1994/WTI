@@ -6,9 +6,7 @@ import { getCountryService } from './services/countryService/countryService';
 
 export default function App() {
   
-  /*
-  * info recebe o objeto com as informações de nome e detalhes do país
-  */
+  
   const [info, setInfo] = useState( {country: 'country', quote: 'quote'} );
 
   useEffect( () => {
